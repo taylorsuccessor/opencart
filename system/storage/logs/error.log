@@ -1,0 +1,183 @@
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: icon in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 14
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: stores in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 91
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: google_analytics in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 100
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: text_welcome in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 156
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 184
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 194
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: text_search in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 218
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: error in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 346
+2017-03-11 17:18:13 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:18:13 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: profiles in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 259
+2017-03-11 17:18:13 - PHP Notice:  Undefined index: option_value in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:18:13 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: text_qty in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 428
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: text_share in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 463
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: entry_captcha in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 547
+2017-03-11 17:18:13 - PHP Notice:  Undefined variable: text_wait in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 799
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: icon in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 14
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: stores in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 91
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: google_analytics in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 100
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: text_welcome in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 156
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 184
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 194
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: text_search in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 218
+2017-03-11 17:18:14 - PHP Notice:  Undefined variable: error in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 346
+2017-03-11 17:18:14 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:18:14 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: icon in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 14
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: stores in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 91
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: google_analytics in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 100
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: text_welcome in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 156
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 184
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: compare in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 194
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: text_search in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 218
+2017-03-11 17:18:15 - PHP Notice:  Undefined variable: error in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\common\header.tpl on line 346
+2017-03-11 17:18:15 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:18:15 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:18:29 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:18:29 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:18:29 - PHP Notice:  Undefined variable: profiles in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 259
+2017-03-11 17:18:29 - PHP Notice:  Undefined index: option_value in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:18:29 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:18:29 - PHP Notice:  Undefined variable: text_qty in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 428
+2017-03-11 17:18:29 - PHP Notice:  Undefined variable: text_share in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 463
+2017-03-11 17:18:29 - PHP Notice:  Undefined variable: entry_captcha in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 547
+2017-03-11 17:18:29 - PHP Notice:  Undefined variable: text_wait in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 799
+2017-03-11 17:18:30 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:18:30 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 31
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 38
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 54
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 55
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 77
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 200
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 211
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 215
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 217
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 223
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 229
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 235
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 237
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 251
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 281
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 286
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 299
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 305
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 312
+2017-03-11 17:19:00 - PHP Notice:  Indirect modification of overloaded property ControllerModuleMagiketios::$data has no effect in E:\xampp\htdocs\opencart\admin\controller\module\magiketios.php on line 318
+2017-03-11 17:19:04 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:19:04 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 8
+2017-03-11 17:19:04 - PHP Notice:  Undefined variable: profiles in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 259
+2017-03-11 17:19:04 - PHP Notice:  Undefined index: option_value in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:19:04 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 289
+2017-03-11 17:19:04 - PHP Notice:  Undefined variable: text_qty in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 428
+2017-03-11 17:19:04 - PHP Notice:  Undefined variable: text_share in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 463
+2017-03-11 17:19:04 - PHP Notice:  Undefined variable: entry_captcha in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 547
+2017-03-11 17:19:04 - PHP Notice:  Undefined variable: text_wait in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\product\product.tpl on line 799
+2017-03-11 17:19:04 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 17:19:04 - PHP Notice:  Undefined index: separator in E:\xampp\htdocs\opencart\catalog\view\theme\etios\template\error\not_found.tpl on line 8
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
+2017-03-11 19:21:49 - PHP Notice:  Use of undefined constant brack - assumed 'brack' in E:\xampp\htdocs\opencart\catalog\view\theme\mh\template\common\header.tpl on line 96
